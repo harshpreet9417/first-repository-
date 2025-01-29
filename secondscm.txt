@@ -1,2 +1,3 @@
-Hello g5 ..
+Hello g5 
+good morning
 this is second scm lab on 29th january,2025.
